@@ -4,7 +4,9 @@
   "description": "Reduxtor is a good alternative for React-Redux",
   "main": "./dist/reduxtor-bundle.js",
   "types": "./dist/reduxtor-types.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "tsc": "tsc",
     "webpack": "webpack-cli --config webpack.config.js",
