@@ -1,0 +1,8 @@
+{
+  "entries": [
+    {
+      "filePath": "./dist/reduxtor-expose.js",
+      "outFile": "./dist/reduxtor-types.d.ts"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "experimentalDecorators": true,
+    "target": "es5",
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "importHelpers": true,
+    "declaration": true,
+    "outDir": "dist"
+  },
+  "exclude": ["node_modules", "/**/*-test.ts"]
+}
